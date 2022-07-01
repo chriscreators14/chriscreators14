@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning GitHub
 - 🌱 I’m currently learning P3
 - 💞️ I’m looking to collaborate on Scratch at @chriscreators14
-- 📫 How to reach me ...
+- 📫 How to reach me is by Scratch (see above ^)
 
 <!---
 chriscreators14/chriscreators14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
