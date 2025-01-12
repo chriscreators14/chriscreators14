@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chriscreators14
-- 👀 I’m interested in learning GitHub
-- 🌱 I’m currently learning P3
-- 💞️ I’m looking to collaborate on Scratch at @chriscreators14
+- 👀 I’m not interested in learning anything in specific
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Scratch at @chriscreators14test
 - 📫 How to reach me is by Scratch (see above ^)
 
 <!---
