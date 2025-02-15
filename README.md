@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chriscreators14
 - 👀 I’m not interested in learning anything in specific
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Scratch at @chriscreators14test
+- 💞️ I’m looking to collaborate on Scratch at @chriscreators14
 - 📫 How to reach me is by Scratch (see above ^)
 
 <!---
